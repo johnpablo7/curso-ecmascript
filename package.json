@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "John Pablo Valverde <john.davis.2015.03@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
